@@ -1,0 +1,13 @@
+91c3791d4fed95246549c3f431bb77c5 *DESCRIPTION
+0b9ff83b860406cea2bfffc9e73399b5 *NAMESPACE
+8637f1744d093f23584447fdedf0dd18 *R/calibrateProj.R
+49b2077d8733903311bf2e69081cd034 *R/fwi.R
+152838e0c830ab9bf400f9d7fb298a90 *R/lappend.R
+066984fb9d5d4cdb9f88f4bcea5f425c *R/mkTrend.R
+bd3133ba7b89d8ebe2c39b0874c2605a *data/fwi.data.rda
+5f43a3bd65548405543cd2aa223f9e7c *man/calibrateProj.Rd
+77db9887a09084113a1f07468ac8e8c2 *man/fume-package.Rd
+a0ae271c462835396356db184ac8f559 *man/fwi.Rd
+cca004dec7d16b3c048a7e7e30290bd7 *man/fwi.data.Rd
+ce90ff63a852cf8d6365d4c887a52c1b *man/lappend.Rd
+85c3e2e0e0afbe3631c88af55d55cd55 *man/mkTrend.Rd
